@@ -29,7 +29,7 @@ put your cover here -->
 
 <!-- profile stats here just change username to yours -->
 
-![Ahmed Lotfy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedLotfy02&show_icons=true&theme=novatorem)       
+![Ahmed Lotfy's Github Stats](https://github-readme-stats.vercel.app/api?username=AhmedLotfy02)
 <br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedLotfy02&count_private=true&theme=novatorem)
