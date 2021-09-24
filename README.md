@@ -9,6 +9,20 @@ put your cover here -->
 
 
 <br>
+
+<h2>About Ahmed Lotfy⚡</h2>
+<ul>
+ <li><strong><em>I'm student at faculty of engineering cairo university computer department</em></strong></li>
+ <li><strong><em>Courses I studied in university: <ul>
+  <li>C++</li>
+    <li>Logic Design I</li>
+  <li>Logic Design II</li>
+  <li>Data Structure</li>
+  <li>Electronics I</li>
+  <li>Electrical Circuits I</li>
+  </ul></em></strong></li>
+
+</ul>
 <!-- your profile view counter here -->
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AhmedLotfy02)
