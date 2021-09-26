@@ -26,7 +26,8 @@ put your cover here -->
 <!-- your profile view counter here -->
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AhmedLotfy02)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedLotfy02%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
 <!-- profile stats here just change username to yours -->
 
 ![Ahmed Lotfy's Github Stats](https://github-readme-stats.vercel.app/api?username=AhmedLotfy02)
