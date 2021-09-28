@@ -14,7 +14,7 @@ put your cover here -->
 <ul>
  <li><strong><em>I'm student at faculty of engineering cairo university computer department</em></strong></li>
  <li><strong><em>Courses I studied in university: <ul>
-  <li>C++</li>
+  <li>OOP</li>
     <li>Logic Design I</li>
   <li>Logic Design II</li>
   <li>Data Structure</li>
