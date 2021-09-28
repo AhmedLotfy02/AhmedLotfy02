@@ -30,10 +30,10 @@ put your cover here -->
   
   <!-- profile stats here just change username to yours -->
 
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AhmedLotfy02&count_private=true&theme=&showicons=true)]()
- 
-  
 
+ ![Ahmed Lotfy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedLotfy02&count_private=true)
+
+  
 <br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedLotfy02&count_private=true&theme=novatorem)
