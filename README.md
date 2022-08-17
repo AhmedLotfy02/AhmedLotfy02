@@ -13,14 +13,6 @@ put your cover here -->
 <h2>About Ahmed Lotfy⚡</h2>
 <ul>
  <li><strong><em>I'm student at faculty of engineering cairo university computer department</em></strong></li>
- <li><strong><em>Courses I studied in university: <ul>
-  <li>OOP</li>
-    <li>Logic Design I</li>
-  <li>Logic Design II</li>
-  <li>Data Structure</li>
-  <li>Electronics I</li>
-  <li>Electrical Circuits I</li>
-  </ul></em></strong></li>
 
 </ul>
 <!-- your profile view counter here -->
@@ -73,4 +65,4 @@ put your cover here -->
 
 </p>
 <br>
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
